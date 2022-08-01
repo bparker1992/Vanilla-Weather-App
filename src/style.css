@@ -4,7 +4,8 @@ body {
 
 .weather-app {
     max-width: 600px;
-    margin: 30, auto;
+    margin-top: 30px;
+    margin: auto, auto;
     padding: 20px;
     border: 1px solid #daddda;
     border-radius: 5px;
